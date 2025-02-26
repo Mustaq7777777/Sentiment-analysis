@@ -12,3 +12,5 @@ Running Interface :
 - Now click on Build models button and wait for the models to build. Once the models are built then then it will show that model building completed.
 - Now paste the song that you want to perform sentiment analysis in the text field.
 - Click on predict button and it will give the prediction results of all 5 models.
+
+Local done
